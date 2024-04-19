@@ -4,6 +4,9 @@
   "private": true,
   "homepage": "https://kuciapakrystian.github.io/goit-react-hw-04-feedback/",
   "dependencies": {
+    "@emotion/css": "^11.11.2",
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
